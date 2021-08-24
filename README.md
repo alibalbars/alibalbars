@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <a href="https://medium.com/@alibalbars/javascript-promise-temelleri-a78408160358">Javascript Promises</a><br>
 </div>
 
-<div align="center" style="margin-top: 25px">
+<div align="center" style="margin:10px 10px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibalbars&layout=compact" />
 </div>
 
