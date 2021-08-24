@@ -60,3 +60,8 @@ Here are some ideas to get you started:
     <a href="https://medium.com/@alibalbars/jest-ile-unit-test-yazmak-addc2ce3f06c">Jest ile unit test yazmak</a><br>
     <a href="https://medium.com/@alibalbars/javascript-promise-temelleri-a78408160358">Javascript Promises</a><br>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibalbars&layout=compact" />
+</div>
+
