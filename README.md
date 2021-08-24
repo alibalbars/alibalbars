@@ -11,7 +11,7 @@
 
 <br>
 
-<!--
+
 **alibalbars/alibalbars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
 <h1 align="center">Hi, I'm Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">Front-End Developer</h3>
 
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://medium.com/@alibalbars" style="margin:0 10px">
-    <img alt="Ali Balbars's Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/768px-Medium_logo_Monogram.svg.png" />
+    <img alt="Ali Balbars's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/768px-Medium_logo_Monogram.svg.png" />
   </a>
 </p>
 
@@ -61,7 +60,7 @@ Here are some ideas to get you started:
     <a href="https://medium.com/@alibalbars/javascript-promise-temelleri-a78408160358">Javascript Promises</a><br>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 25px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibalbars&layout=compact" />
 </div>
 
