@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://medium.com/@alibalbars" style="margin:0 10px">
-    <img alt="Ali Balbars's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/768px-Medium_logo_Monogram.svg.png" />
+    <img alt="Ali Balbars's Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/768px-Medium_logo_Monogram.svg.png" />
   </a>
 </p>
 
